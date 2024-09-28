@@ -2,6 +2,7 @@
 ![Repos Badge](https://img.shields.io/badge/repositories-6-blue)
 ![Followers Badge](https://img.shields.io/github/followers/AMwyashar1012?style=social)
 ![Blogger Badge](https://img.shields.io/badge/blog-technology--guru-orange)
+![Music Status](https://img.shields.io/badge/melophile-blue)
 ![Night Owl Badge](https://img.shields.io/badge/productivity-night--owl-blue)
 ![Twitter](https://img.shields.io/twitter/follow/amwyacool1012?style=social)
 
