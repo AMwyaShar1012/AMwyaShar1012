@@ -1,3 +1,17 @@
+![Verification](https://img.shields.io/badge/verification-official-green) 
+
+![Repos Badge](https://img.shields.io/badge/repositories-6-blue)
+
+![Followers Badge](https://img.shields.io/github/followers/AMwyashar1012?style=social)
+
+![Blogger Badge](https://img.shields.io/badge/blog-technology--guru-orange)
+
+![Night Owl Badge](https://img.shields.io/badge/productivity-night--owl-blue)
+
+![Twitter](https://img.shields.io/twitter/follow/amwyacool1012?style=social)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.AMwyashar1012)
+
 # Hi there! 👋 I'm Ameya
 
 I love exploring the world of technology and programming. I’m always curious about how things work and enjoy taking on new challenges—whether it’s solving puzzles or working on cool projects.
