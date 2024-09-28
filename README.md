@@ -21,6 +21,8 @@ I love exploring the world of technology and programming. I’m always curious a
 ## 🛠️ Technologies & Tools
 - Languages: Almost all languages 😲
 - Tools: Excalidraw, Postman and more!
+- Personal Blog: [Visit My Website](sharmaameya9.wixsite.com/ameyas-blog)
+
 
 ## 📫 How to reach me
 - Email: [sharmaameya9@gmail.com](mailto:sharmaameya9@gmail.com)
