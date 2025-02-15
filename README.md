@@ -1,5 +1,5 @@
 ![Verification](https://img.shields.io/badge/verification-official-green) 
-![Repos Badge](https://img.shields.io/badge/repositories-6-blue)
+![Repos Badge](https://img.shields.io/badge/repositories-7-blue)
 ![Followers Badge](https://img.shields.io/github/followers/AMwyashar1012?style=social)
 ![Blogger Badge](https://img.shields.io/badge/blog-technology--guru-orange)
 ![Music Status](https://img.shields.io/badge/melophile-blue)
