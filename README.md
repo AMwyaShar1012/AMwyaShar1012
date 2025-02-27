@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AMwyaShar1012&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMwyaShar1012&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/AMwyaShar1012/AMwyaShar1012/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
