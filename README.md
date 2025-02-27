@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 What I'm currently learning<br>- Data Structures and Algorithms<br>- New tech advancements to document in my blog<br><br>📚 Things I'm interested in<br>- AI and ML<br>- Data Science<br><br>🛠️ Technologies & Tools<br>- Languages: Almost all languages 😲<br>- Tools: Excalidraw, Postman and more!<br>- Personal Blog: sharmaameya9.wixsite.com/ameyas-blog<br><br><br>📫 How to reach me<br>- Email: [sharmaameya9@gmail.com](mailto:sharmaameya9@gmail.com)<br><br>👨 Pronouns: he/him<br>
+🌱 What I'm currently learning<br>- Data Structures and Algorithms<br>- New tech advancements to document in my blog<br><br>📚 Things I'm interested in<br>- AI and ML<br>- Data Science<br><br>🛠️ Technologies & Tools<br>- Languages: Almost all languages 😲<br>- Tools: Excalidraw, Postman and more!<br>- Personal Blog: sharmaameya9.wixsite.com/ameyas-blog<br><br>👨 Pronouns: he/him<br>
 
 
 ## 🌐 Socials:
